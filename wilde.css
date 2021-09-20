@@ -1,0 +1,28 @@
+.speech {
+    font-size: 15px;
+    color: #000;
+}
+.stage-direction {
+    font-size: 10px;
+    background-color: #F0F8FF;
+}
+.stage-direction:hover{
+    color: rgb(13, 13, 211);
+    background-color: #195c56;
+}
+.name {
+    font-size: 16px;
+    color: #000;
+}
+.name:hover {
+    border: 1px solid;
+    border-color: inherit;
+    box-shadow: 0px 5px 6px;
+}
+.ladywindmare {
+    color: #F037A5;
+}
+
+.lorddarlington {
+    color: #125D98;
+}
