@@ -26,3 +26,20 @@
 .lorddarlington {
     color: #125D98;
 }
+table,th,td {
+            border: 1px solid black;
+            padding: 1rem 2rem;
+            text-align: center;
+            
+        }
+        td {
+            color: #2D46B9;
+        }
+        table {
+            border-collapse: collapse;
+            margin: 2rem auto;
+        }
+        tr:nth-child(even) {
+            background-color: #eaeaeaa1;
+        }
+        
