@@ -3,11 +3,11 @@
     color: #000;
 }
 .stage-direction {
-    font-size: 10px;
+    font-size: 12px;
     background-color: #F0F8FF;
 }
 .stage-direction:hover{
-    color: rgb(13, 13, 211);
+    color: rgb(0, 0, 2);
     background-color: #195c56;
 }
 .name {
@@ -19,7 +19,7 @@
     border-color: inherit;
     box-shadow: 0px 5px 6px;
 }
-.ladywindmare {
+.ladywindermare {
     color: #F037A5;
 }
 
