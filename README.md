@@ -2,4 +2,4 @@
 A practice assignment for HTML with CSS
 
 
-Hosted at <a href="https://44-563-webapps-f21.github.io/webapps-f21-assignment-4-hvrabhi/" rel="nofollow">https://44-563-webapps-f21.github.io/webapps-f21-assignment-4-hvrabhi/</a>
+Hosted at <a href="https://44-563-webapps-f21.github.io/webapps-f21-assignment-4-hvrabhi/play.htmkl" rel="nofollow">https://44-563-webapps-f21.github.io/webapps-f21-assignment-4-hvrabhi/play.html</a>
